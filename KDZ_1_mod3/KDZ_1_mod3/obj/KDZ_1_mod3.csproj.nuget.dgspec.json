@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\KDZ_1_mod3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj",
+        "projectName": "AdditionalClasses",
+        "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj",
+        "packagesPath": "C:\\Users\\frubyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frubyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj",
+        "projectName": "DataProcessing",
+        "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj",
+        "packagesPath": "C:\\Users\\frubyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frubyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj",
+        "projectName": "GetAndSaveData",
+        "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj",
+        "packagesPath": "C:\\Users\\frubyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frubyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj"
+              },
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\KDZ_1_mod3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\KDZ_1_mod3.csproj",
+        "projectName": "KDZ_1_mod3",
+        "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\KDZ_1_mod3.csproj",
+        "packagesPath": "C:\\Users\\frubyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frubyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj"
+              },
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj"
+              },
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj"
+              },
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj",
+        "projectName": "WorkWithJsonFile",
+        "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj",
+        "packagesPath": "C:\\Users\\frubyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frubyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj": {
+                "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

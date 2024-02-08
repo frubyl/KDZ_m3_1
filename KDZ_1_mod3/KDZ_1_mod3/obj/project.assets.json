@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AdditionalClasses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AdditionalClasses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdditionalClasses.dll": {}
+        }
+      },
+      "DataProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdditionalClasses": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataProcessing.dll": {}
+        }
+      },
+      "GetAndSaveData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdditionalClasses": "1.0.0",
+          "WorkWithJsonFile": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GetAndSaveData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GetAndSaveData.dll": {}
+        }
+      },
+      "WorkWithJsonFile/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdditionalClasses": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WorkWithJsonFile.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkWithJsonFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdditionalClasses/1.0.0": {
+      "type": "project",
+      "path": "../AdditionalClasses/AdditionalClasses.csproj",
+      "msbuildProject": "../AdditionalClasses/AdditionalClasses.csproj"
+    },
+    "DataProcessing/1.0.0": {
+      "type": "project",
+      "path": "../DataProcessing/DataProcessing.csproj",
+      "msbuildProject": "../DataProcessing/DataProcessing.csproj"
+    },
+    "GetAndSaveData/1.0.0": {
+      "type": "project",
+      "path": "../GetAndSaveData/GetAndSaveData.csproj",
+      "msbuildProject": "../GetAndSaveData/GetAndSaveData.csproj"
+    },
+    "WorkWithJsonFile/1.0.0": {
+      "type": "project",
+      "path": "../WorkWithJsonFile/WorkWithJsonFile.csproj",
+      "msbuildProject": "../WorkWithJsonFile/WorkWithJsonFile.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AdditionalClasses >= 1.0.0",
+      "DataProcessing >= 1.0.0",
+      "GetAndSaveData >= 1.0.0",
+      "WorkWithJsonFile >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\frubyl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\KDZ_1_mod3.csproj",
+      "projectName": "KDZ_1_mod3",
+      "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\KDZ_1_mod3.csproj",
+      "packagesPath": "C:\\Users\\frubyl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\KDZ_1_mod3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\frubyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj": {
+              "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\AdditionalClasses\\AdditionalClasses.csproj"
+            },
+            "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj": {
+              "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\DataProcessing\\DataProcessing.csproj"
+            },
+            "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj": {
+              "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\GetAndSaveData\\GetAndSaveData.csproj"
+            },
+            "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj": {
+              "projectPath": "C:\\Users\\frubyl\\Desktop\\KDZ_1_mod3\\WorkWithJsonFile\\WorkWithJsonFile.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

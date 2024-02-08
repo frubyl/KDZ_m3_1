@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KDZ_1_mod3/1.0.0": {
+        "dependencies": {
+          "AdditionalClasses": "1.0.0",
+          "DataProcessing": "1.0.0",
+          "GetAndSaveData": "1.0.0",
+          "WorkWithJsonFile": "1.0.0"
+        },
+        "runtime": {
+          "KDZ_1_mod3.dll": {}
+        }
+      },
+      "AdditionalClasses/1.0.0": {
+        "runtime": {
+          "AdditionalClasses.dll": {}
+        }
+      },
+      "DataProcessing/1.0.0": {
+        "dependencies": {
+          "AdditionalClasses": "1.0.0"
+        },
+        "runtime": {
+          "DataProcessing.dll": {}
+        }
+      },
+      "GetAndSaveData/1.0.0": {
+        "dependencies": {
+          "AdditionalClasses": "1.0.0",
+          "WorkWithJsonFile": "1.0.0"
+        },
+        "runtime": {
+          "GetAndSaveData.dll": {}
+        }
+      },
+      "WorkWithJsonFile/1.0.0": {
+        "dependencies": {
+          "AdditionalClasses": "1.0.0"
+        },
+        "runtime": {
+          "WorkWithJsonFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KDZ_1_mod3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdditionalClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GetAndSaveData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkWithJsonFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

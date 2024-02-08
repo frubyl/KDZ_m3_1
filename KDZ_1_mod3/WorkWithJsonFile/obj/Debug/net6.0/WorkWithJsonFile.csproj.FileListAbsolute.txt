@@ -1,0 +1,15 @@
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\bin\Debug\net6.0\WorkWithJsonFile.deps.json
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\bin\Debug\net6.0\WorkWithJsonFile.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\bin\Debug\net6.0\WorkWithJsonFile.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\bin\Debug\net6.0\AdditionalClasses.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\bin\Debug\net6.0\AdditionalClasses.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.csproj.AssemblyReference.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.AssemblyInfoInputs.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.AssemblyInfo.cs
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.csproj.CoreCompileInputs.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.csproj.CopyComplete
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\refint\WorkWithJsonFile.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\WorkWithJsonFile.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\WorkWithJsonFile\obj\Debug\net6.0\ref\WorkWithJsonFile.dll
