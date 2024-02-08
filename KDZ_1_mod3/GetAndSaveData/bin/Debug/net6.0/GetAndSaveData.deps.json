@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GetAndSaveData/1.0.0": {
+        "dependencies": {
+          "AdditionalClasses": "1.0.0",
+          "WorkWithJsonFile": "1.0.0"
+        },
+        "runtime": {
+          "GetAndSaveData.dll": {}
+        }
+      },
+      "AdditionalClasses/1.0.0": {
+        "runtime": {
+          "AdditionalClasses.dll": {}
+        }
+      },
+      "WorkWithJsonFile/1.0.0": {
+        "dependencies": {
+          "AdditionalClasses": "1.0.0"
+        },
+        "runtime": {
+          "WorkWithJsonFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetAndSaveData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdditionalClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkWithJsonFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

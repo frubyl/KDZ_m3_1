@@ -1,0 +1,11 @@
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\bin\Debug\net6.0\AdditionalClasses.deps.json
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\bin\Debug\net6.0\AdditionalClasses.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\bin\Debug\net6.0\AdditionalClasses.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\AdditionalClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\AdditionalClasses.AssemblyInfoInputs.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\AdditionalClasses.AssemblyInfo.cs
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\AdditionalClasses.csproj.CoreCompileInputs.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\AdditionalClasses.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\refint\AdditionalClasses.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\AdditionalClasses.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\AdditionalClasses\obj\Debug\net6.0\ref\AdditionalClasses.dll

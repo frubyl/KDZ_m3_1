@@ -1,0 +1,17 @@
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\GetAndSaveData.deps.json
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\GetAndSaveData.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\GetAndSaveData.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\AdditionalClasses.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\WorkWithJsonFile.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\AdditionalClasses.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\bin\Debug\net6.0\WorkWithJsonFile.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.csproj.AssemblyReference.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.AssemblyInfoInputs.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.AssemblyInfo.cs
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.csproj.CoreCompileInputs.cache
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.csproj.CopyComplete
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\refint\GetAndSaveData.dll
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\GetAndSaveData.pdb
+C:\Users\frubyl\Desktop\KDZ_1_mod3\GetAndSaveData\obj\Debug\net6.0\ref\GetAndSaveData.dll
